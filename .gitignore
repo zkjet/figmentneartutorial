@@ -5,3 +5,4 @@ node_modules
 smartcontract/build
 smartcontract/node_modules
 *.log
+.env
